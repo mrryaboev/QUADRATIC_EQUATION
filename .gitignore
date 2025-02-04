@@ -1,0 +1,13 @@
+/build
+*.o
+*.exe
+*.pdb
+*.ilk
+*.log
+/test/*.exe
+/test/*.o
+/test/*.pdb
+/test/*.ilk
+.DS_Store
+/cmake-build-*
+/CMakeCache.txt
